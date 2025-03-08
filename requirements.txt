@@ -1,0 +1,6 @@
+pyjwt
+gevent
+flask
+requests
+redshift-connector
+mysql-connector-python
